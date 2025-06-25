@@ -1,8 +1,13 @@
+ HEAD
 # dashboar  d-excel 
+
+# dashboard-excel 
+ 0712b6f ( link dataset y limpieza)
 SPOTIFY DASHBOARD-ANALISIS CON EXCEL 
 en este proyecto voy a analizar casi 2000 canciones en spotify desde el año 2000 .
 utilizare excel para la limpieza de datos, analisis exploratorio y visualizacion interactiva mediante dashboard. 
 DATASET - FUENTE : https://www.kaggle.com/datasets/iamsumat/spotify-top-2000s-mega-dataset 
+ HEAD
 DASHBOARD ARCHIVO EXCEL - [text](<../../../proyecto dashboard/DASHBOARD SPOTIFY.xlsx>)
 
 1.IMPORTACION Y REVISION INICIAL:
@@ -117,5 +122,13 @@ con mejor acustica tenemos bow pop, del artista yann tiersen con 99, y con peor 
 AUTOR: David Rull Lopez 30 julio de 2025. 
 
 
+
+
+1.LIMPIEZA DE DATOS:
+
+-lo primero que he hecho ha sido traducir al castellano los titulos de las colummnas para ver todo mas claro ( he seleccionado todas las columnas y le he dadp a revisar y traducir dentro de excel)
+
+-lo segundo que he hecho y he visto claro es pasar la duracion de segundos a minutos .
+ 0712b6f ( link dataset y limpieza)
 
 

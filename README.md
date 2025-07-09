@@ -82,6 +82,7 @@ lo he comprobado seleccionando todas las casillas de cada columna y en inicio , 
 4.CREACION DEL DASHBOARD:
 
 4.1 TABLAS DINAMICAS (AGRUPAR Y RESUMIR)
+-he creado todas las tablas por distintos colores para identificarlas rapidamente y mas facil , con la informacion importante y resumida para empezar a crear graficos y organizar mi dashboard.
 
 4,2 GRAFICOS DINAMICOS (BARRAS, LINEAS, HISTOGRAMAS)
 

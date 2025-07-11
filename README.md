@@ -85,6 +85,7 @@ lo he comprobado seleccionando todas las casillas de cada columna y en inicio , 
 -he creado todas las tablas por distintos colores para identificarlas rapidamente y mas facil , con la informacion importante y resumida para empezar a crear graficos y organizar mi dashboard.
 
 4,2 GRAFICOS DINAMICOS (BARRAS, LINEAS, HISTOGRAMAS)
+-he creado todos los graficos de distintos tipos segun mas le convenia a cada informacion segun mi perspectiva, y ya solo me queda ordenar el dashboard para que quede lo mas limpio posible, y de la mejor manera para que se entienda bien.
 
 4.3 FILTROS INTERACTIVOS(SEGMENTACIONES DE DATOS PARA AÑO ARTISTA GENERO,ETC...)
 

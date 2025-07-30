@@ -3,6 +3,7 @@ SPOTIFY DASHBOARD-ANALISIS CON EXCEL
 en este proyecto voy a analizar casi 2000 canciones en spotify desde el año 2000 .
 utilizare excel para la limpieza de datos, analisis exploratorio y visualizacion interactiva mediante dashboard. 
 DATASET - FUENTE : https://www.kaggle.com/datasets/iamsumat/spotify-top-2000s-mega-dataset 
+DASHBOARD ARCHIVO EXCEL - [text](<../../../proyecto dashboard/DASHBOARD SPOTIFY.xlsx>)
 
 1.IMPORTACION Y REVISION INICIAL:
 
@@ -82,16 +83,38 @@ lo he comprobado seleccionando todas las casillas de cada columna y en inicio , 
 4.CREACION DEL DASHBOARD:
 
 4.1 TABLAS DINAMICAS (AGRUPAR Y RESUMIR)
+
 -he creado todas las tablas por distintos colores para identificarlas rapidamente y mas facil , con la informacion importante y resumida para empezar a crear graficos y organizar mi dashboard.
 
 4,2 GRAFICOS DINAMICOS (BARRAS, LINEAS, HISTOGRAMAS)
--he creado todos los graficos de distintos tipos segun mas le convenia a cada informacion segun mi perspectiva, y ya solo me queda ordenar el dashboard para que quede lo mas limpio posible, y de la mejor manera para que se entienda bien.
 
-4.3 FILTROS INTERACTIVOS(SEGMENTACIONES DE DATOS PARA AÑO ARTISTA GENERO,ETC...)
+-he creado todos los graficos de distintos tipos segun mas le convenia a cada informacion segun mi perspectiva, y ya solo me queda ordenar el dashboard para que quede lo mas limpio posible, y de la mejor manera para que se entienda bien.
 
 5.CONCLUSION:
 
-AUTOR: David Rull Lopez ... julio de 2025.
+-a lo largo de los años los generos que mas se repiten son album rock y adults standars.
+
+en 2008 es donde mas variedad de generos hay con 54 tipos de genero distintos seguidos de 1991 y 2018 con 52, y donde menos variedad de generos hay es en 1956, 1960 y 1961 con 1 solo genero (adults standars).
+
+los bpm mas usados son 125 con 40 artistas, seguido de 127 con 39 artistas.
+
+los generos con mas bailabilidad son reggae fusion y electro, pero hay otros generos que les siguen tambien con bastante bailabilidad que son con 95 detroit hip hop y dutch hip hop, seguido de dutch cabaret, glam rock y reggae con 93.
+
+los que menos bailabilidad tienen son britpop con 10 y classic soundtrack con 12, seguido de art rock y glam rock con 14.
+
+el año con mas energia (100) es el 1986, con la cancion angel of death del compositor slayer con el genero alternative metal , los siguientes años con mas energia (99) son 7 , 2 de ellos de 2004 the killers con su cancion somebody told me y green day con american idiot ambas de modern rock, en 2002 alternative metal, en 1984 funk, en 1987 glam metal y en 1994 y 1997 big beat, y los que menos energia (3) tienen son el genero adult standards en el año 1969 y el siguiente que menos energia (4) tiene es canadian folk en el año 1971.
+
+el artista con mas popularidad (100) es Tones And I con su cancion dance monkey con un genero australian pop y del año 2019, el siguiente con mas popularidad es maroon 5 con pop en 2019, los dos siguientes con 95 son billie eilish con electropop en 2019 y mariah carey con dance pop en 1994.
+
+los artistas con menos popularidad 11 es anouk con dutch indie en 1998, el siguiente con 12 es BLOf con dutch pop en 2018, con 14 emerson,lake & palmer con album rock en 2010, y con 15 wim sonneveld y rob de nijs en 2015 y 2018 con generos de dutch cabaret y dutch pop. 
+
+los DB mas utilizados es -7 DB, usado 256 veces y el año que mas se repite es el 2018 con 13 veces, y el genero menos usado en -7 DB son varios solo 1 vez alternative hip hop, alternative dance, alternative pop, art pop . . . entre otros. El menos utilizado es -27 DB solo 1 vez en el año 1986 con el genero dutch pop, seguido de -24 DB en 1983 y 1986 con los generos celtic y funk.
+
+los generos que mas suelen durar son finnish metal con 7.4 minutos, seguidos de italian pop con 6.5 minutos y contemporary vocal jazz con 6,4 minutos, y los que menos duran son rock and roll con 2.6 minutos, seguido de pop punk, motown y chicago soul con 2.8 minutos, y arkansas country con 3.0 minutos.
+
+con mejor acustica tenemos bow pop, del artista yann tiersen con 99, y con peor acustica son 224 con 0 de los cuales nombrare a 5 detroit hip hop, alternative metal, irish rock, dance pop y adult standards cuyos artistas son eminem, metallica, U2, beyonce y elvis presley .
+
+AUTOR: David Rull Lopez 30 julio de 2025. 
 
 
 
